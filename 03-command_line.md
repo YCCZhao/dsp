@@ -8,14 +8,16 @@ tutorial](https://web.archive.org/web/20160708171659/http://cli.learncodethehard
 ### Q1.  Cheat Sheet of Commands  
 
 Here's a list of items with which you should be familiar:  
-* show current working directory path
-* creating a directory
-* deleting a directory
-* creating a file using `touch` command
-* deleting a file
-* renaming a file
-* listing hidden files
-* copying a file from one directory to another
+* show current working directory path: pwd   
+* creating a directory: mkdir <dir>   
+* deleting a directory rm -r <dir>   
+* creating a file using `touch` command: touch <file>    
+* deleting a file: rm <file>   
+* renaming a file: mv <old name> <new name>
+* listing hidden files: ls -a   
+* copying a file from one directory to another: cp <one director> <another>   
+* find file by name: find . -name <"file name"> -print   
+* find file by content: grep -ilrw <"something"> <director to search> 
 
 Make a cheat sheet for yourself: a list of at least **ten** commands and what they do.  (Use the 8 items above and add a couple of your own.)  
 
@@ -26,13 +28,13 @@ Make a cheat sheet for yourself: a list of at least **ten** commands and what th
 ### Q2.  List Files in Unix   
 
 What do the following commands do:  
-> > `ls`  list files and directories under current folder
-> > `ls -a`  do not ignore entries starting with .
-> > `ls -l`  use a long listing format
-> > `ls -lh`  use a long listing format with human readable sizes
-> > `ls -lah`  list all files and directories including ones with . in a long listing format with human readable format
-> > `ls -t`  sort by modification time, newest first
-> > `ls -Glp`  in long listing, without group names and append "/" to directories.
+> > `ls`  list files and directories under current folder   
+> > `ls -a`  do not ignore entries starting with .   
+> > `ls -l`  use a long listing format   
+> > `ls -lh`  use a long listing format with human readable sizes   
+> > `ls -lah`  list all files and directories including ones with . in a long listing format with human readable format   
+> > `ls -t`  sort by modification time, newest first   
+> > `ls -Glp`  in long listing, without group names and append "/" to directories.   
 
 
 ---
