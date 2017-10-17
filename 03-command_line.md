@@ -10,7 +10,7 @@ tutorial](https://web.archive.org/web/20160708171659/http://cli.learncodethehard
 Here's a list of items with which you should be familiar:  
 * show current working directory path: pwd   
 * creating a directory: mkdir <dir>   
-* deleting a directory rm -r <dir>   
+* deleting a directory: rm -r <dir>   
 * creating a file using `touch` command: touch <file>    
 * deleting a file: rm <file>   
 * renaming a file: mv <old name> <new name>
@@ -21,7 +21,7 @@ Here's a list of items with which you should be familiar:
 
 Make a cheat sheet for yourself: a list of at least **ten** commands and what they do.  (Use the 8 items above and add a couple of your own.)  
 
-> > REPLACE THIS TEXT WITH YOUR RESPONSE
+> > see above
 
 ---
 
