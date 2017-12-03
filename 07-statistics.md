@@ -93,7 +93,8 @@ Elvis Presley had a twin brother who died at birth.  What is the probability tha
 ### Q6. Bayesian &amp; Frequentist Comparison  
 How do frequentist and Bayesian statistics compare?
 
->> REPLACE THIS TEXT WITH YOUR RESPONSE
+>> Bayesian statistics view data as fixed and model as variable, while frequentist view model fixed and data as variable. 
+>> For example, frequentist would say there is 1/2 chance getting a head and 1/2 chance getting a tail by flipping a fair coin. The difference between final results and model parameter is due to chance in frequentist's point of view. On the other hand, Bayesian statistics view data as fixed, and base on the data they estimated the model parameter with some level of uncertainty. For the coin example, Bayesian statistics estimate the coin resulting either side is 50-50 with 90% confidence level.
 
 ---
 
